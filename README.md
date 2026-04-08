@@ -2,7 +2,9 @@
 
 ![LLM Wiki General Cover](assets/Wiki-CPO-LLM.jpg)
 
-一個通用、可本地運行、可逐步擴充的 LLM Wiki 工作流。
+### 圖中為分析半導體, CPO, 光通, 電動車, 等科技產業的台股美股之間的複雜關係所產生的 Wiki Graph, 讓我們一眼就看明白美股、台股，產業、公司，之間的複雜關係。
+
+然後我們最後的目標當然是，一個通用、可本地運行、可逐步擴充的 LLM Wiki 工作流。
 目標是把任何領域的原始資料，整理成一套可累積、可查詢、可視覺化的 Markdown 知識庫，最後長成一張知識圖。
 
 這個 repo 是 `llm-wiki-graph` 的 general 版本。
@@ -10,7 +12,7 @@
 
 這套流程不只給 Codex 用。只要是會讀檔、寫檔、能跑 Python 的 code agent，都可以照同一套 SOP 來做，例如 Claude Code、Gemini CLI、Cursor agent、Aider，或你之後換成其他本地 / 雲端代理工具也一樣能套用。
 
-## 為什麼這個 repo 有機會變成爆款
+## 為什麼這個 repo 有機會提升價值？
 
 大多數「第二大腦」專案只有資料收集，沒有知識沉澱。
 大多數「RAG」專案只有檢索，沒有長期維護。

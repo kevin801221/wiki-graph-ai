@@ -5,3 +5,5 @@ __pycache__/
 .env
 .env.*
 !.env.example
+
+docs/legal-building-graph-spec.md

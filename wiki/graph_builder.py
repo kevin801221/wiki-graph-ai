@@ -389,6 +389,46 @@ def render_html(graph: dict[str, list[dict[str, object]]]) -> str:
       font-size: 13px;
     }}
 
+    .catalog {{
+      margin-top: 16px;
+      display: grid;
+      gap: 12px;
+    }}
+
+    .catalog-group {{
+      padding: 12px 12px 10px;
+      border-radius: 16px;
+      background: rgba(255, 255, 255, 0.72);
+      border: 1px solid rgba(29, 27, 24, 0.08);
+    }}
+
+    .catalog-title {{
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      align-items: center;
+      margin: 0 0 10px;
+      font-size: 12px;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }}
+
+    .catalog-chips {{
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }}
+
+    .catalog-chip {{
+      padding: 6px 10px;
+      border-radius: 999px;
+      border: 1px solid rgba(29, 27, 24, 0.08);
+      background: rgba(255, 255, 255, 0.92);
+      font-size: 12px;
+      color: var(--text);
+    }}
+
     .legend-item {{
       display: flex;
       align-items: center;
@@ -544,6 +584,7 @@ def render_html(graph: dict[str, list[dict[str, object]]]) -> str:
         <div class="legend-item"><span class="dot" style="background: var(--synthesis)"></span>synthesis</div>
         <div class="legend-item"><span class="dot" style="background: var(--other)"></span>other</div>
       </div>
+      <div id="node-catalog"></div>
     </section>
     <aside class="details" id="details"></aside>
     <div class="footer">輸出檔案：<code>wiki/graph.html</code></div>
@@ -575,6 +616,7 @@ def render_html(graph: dict[str, list[dict[str, object]]]) -> str:
     const simStatus = document.getElementById("sim-status");
     const nodeCount = document.getElementById("node-count");
     const linkCount = document.getElementById("link-count");
+    const nodeCatalog = document.getElementById("node-catalog");
 
     const adjacency = new Map();
     graphData.nodes.forEach((node) => adjacency.set(node.id, new Set()));
@@ -590,6 +632,38 @@ def render_html(graph: dict[str, list[dict[str, object]]]) -> str:
         return value / 2147483647;
       }};
     }})();
+
+    function buildNodeCatalogHtml() {{
+      const grouped = new Map();
+      for (const node of graphData.nodes) {{
+        const type = node.type || "other";
+        if (!grouped.has(type)) {{
+          grouped.set(type, []);
+        }}
+        grouped.get(type).push(node.title);
+      }}
+
+      const order = ["overview", "synthesis", "concept", "entity", "source", "raw", "other"];
+      return `
+        <div class="catalog">
+          ${{order.map((type) => {{
+            const titles = (grouped.get(type) || []).slice(0, 8);
+            if (!titles.length) return "";
+            return `
+              <div class="catalog-group">
+                <div class="catalog-title">
+                  <span>${{type}}</span>
+                  <span>${{titles.length}} nodes</span>
+                </div>
+                <div class="catalog-chips">
+                  ${{titles.map((title) => `<span class="catalog-chip">${{title}}</span>`).join("")}}
+                </div>
+              </div>
+            `;
+          }}).join("")}}
+        </div>
+      `;
+    }}
 
     const TYPE_ORDER = ["overview", "synthesis", "concept", "source", "entity", "raw", "other"];
     const BASE_TYPE_CENTERS = {{
@@ -1057,6 +1131,7 @@ def render_html(graph: dict[str, list[dict[str, object]]]) -> str:
     rebuildVisibleGraph();
     placeNodesByType();
     renderDetails(null);
+    nodeCatalog.innerHTML = buildNodeCatalogHtml();
     startSimulation();
   </script>
 </body>

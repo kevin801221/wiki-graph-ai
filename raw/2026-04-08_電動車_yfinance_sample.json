@@ -1,0 +1,127 @@
+{
+  "episode": "電動車 產業觀察樣本",
+  "podcast_name": "yfinance",
+  "date": "2026-04-08",
+  "insights": [
+    {
+      "type": "stock",
+      "content": "Tesla, Inc. 屬於 Consumer Cyclical / Auto Manufacturers，註冊地或主要市場為 United States。目前可用的市值欄位為 1300780548096。",
+      "tickers": [
+        "TSLA"
+      ],
+      "key_points": [
+        "company: Tesla, Inc.",
+        "theme: 電動車",
+        "sector: Consumer Cyclical",
+        "industry: Auto Manufacturers",
+        "country: United States",
+        "market_cap: 1300780548096"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "Rivian Automotive, Inc. 屬於 Consumer Cyclical / Auto Manufacturers，註冊地或主要市場為 United States。目前可用的市值欄位為 18230140928。",
+      "tickers": [
+        "RIVN"
+      ],
+      "key_points": [
+        "company: Rivian Automotive, Inc.",
+        "theme: 電動車",
+        "sector: Consumer Cyclical",
+        "industry: Auto Manufacturers",
+        "country: United States",
+        "market_cap: 18230140928"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "Li Auto Inc. 屬於 Consumer Cyclical / Auto Manufacturers，註冊地或主要市場為 China。目前可用的市值欄位為 18842998784。",
+      "tickers": [
+        "LI"
+      ],
+      "key_points": [
+        "company: Li Auto Inc.",
+        "theme: 電動車",
+        "sector: Consumer Cyclical",
+        "industry: Auto Manufacturers",
+        "country: China",
+        "market_cap: 18842998784"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "NIO Inc. 屬於 Consumer Cyclical / Auto Manufacturers，註冊地或主要市場為 China。目前可用的市值欄位為 15525966848。",
+      "tickers": [
+        "NIO"
+      ],
+      "key_points": [
+        "company: NIO Inc.",
+        "theme: 電動車",
+        "sector: Consumer Cyclical",
+        "industry: Auto Manufacturers",
+        "country: China",
+        "market_cap: 15525966848"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "General Motors Company 屬於 Consumer Cyclical / Auto Manufacturers，註冊地或主要市場為 United States。目前可用的市值欄位為 67874992128。",
+      "tickers": [
+        "GM"
+      ],
+      "key_points": [
+        "company: General Motors Company",
+        "theme: 電動車",
+        "sector: Consumer Cyclical",
+        "industry: Auto Manufacturers",
+        "country: United States",
+        "market_cap: 67874992128"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "Delta Electronics, Inc. 屬於 Technology / Electronic Components，註冊地或主要市場為 Taiwan。目前可用的市值欄位為 4324909907968。",
+      "tickers": [
+        "2308.TW"
+      ],
+      "key_points": [
+        "company: Delta Electronics, Inc.",
+        "theme: 電動車",
+        "sector: Technology",
+        "industry: Electronic Components",
+        "country: Taiwan",
+        "market_cap: 4324909907968"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "Fortune Electric Co., Ltd. 屬於 Industrials / Electrical Equipment & Parts，註冊地或主要市場為 Taiwan。目前可用的市值欄位為 261233573888。",
+      "tickers": [
+        "1519.TW"
+      ],
+      "key_points": [
+        "company: Fortune Electric Co., Ltd.",
+        "theme: 電動車",
+        "sector: Industrials",
+        "industry: Electrical Equipment & Parts",
+        "country: Taiwan",
+        "market_cap: 261233573888"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "BizLink Holding Inc. 屬於 Industrials / Electrical Equipment & Parts，註冊地或主要市場為 Taiwan。目前可用的市值欄位為 402592399360。",
+      "tickers": [
+        "3665.TW"
+      ],
+      "key_points": [
+        "company: BizLink Holding Inc.",
+        "theme: 電動車",
+        "sector: Industrials",
+        "industry: Electrical Equipment & Parts",
+        "country: Taiwan",
+        "market_cap: 402592399360"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+[project]
+name = "llm-wiki-general"
+version = "0.1.0"
+description = "A general-purpose, local-first LLM wiki workflow for ingesting raw data into linked Markdown knowledge graphs."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "google-genai>=1.70.0",
+    "yfinance>=1.2.1",
+]
+
+[tool.uv]
+package = false

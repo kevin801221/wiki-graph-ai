@@ -1,0 +1,172 @@
+{
+  "episode": "半導體 產業觀察樣本",
+  "podcast_name": "yfinance",
+  "date": "2026-04-08",
+  "insights": [
+    {
+      "type": "stock",
+      "content": "NVIDIA Corporation 屬於 Technology / Semiconductors，註冊地或主要市場為 United States。目前可用的市值欄位為 4328720695296。",
+      "tickers": [
+        "NVDA"
+      ],
+      "key_points": [
+        "company: NVIDIA Corporation",
+        "theme: 半導體",
+        "sector: Technology",
+        "industry: Semiconductors",
+        "country: United States",
+        "market_cap: 4328720695296"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "Advanced Micro Devices, Inc. 屬於 Technology / Semiconductors，註冊地或主要市場為 United States。目前可用的市值欄位為 361184919552。",
+      "tickers": [
+        "AMD"
+      ],
+      "key_points": [
+        "company: Advanced Micro Devices, Inc.",
+        "theme: 半導體",
+        "sector: Technology",
+        "industry: Semiconductors",
+        "country: United States",
+        "market_cap: 361184919552"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "Broadcom Inc. 屬於 Technology / Semiconductors，註冊地或主要市場為 United States。目前可用的市值欄位為 1583443214336。",
+      "tickers": [
+        "AVGO"
+      ],
+      "key_points": [
+        "company: Broadcom Inc.",
+        "theme: 半導體",
+        "sector: Technology",
+        "industry: Semiconductors",
+        "country: United States",
+        "market_cap: 1583443214336"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "Taiwan Semiconductor Manufacturing Company Limited 屬於 Technology / Semiconductors，註冊地或主要市場為 Taiwan。目前可用的市值欄位為 1791003852800。",
+      "tickers": [
+        "TSM"
+      ],
+      "key_points": [
+        "company: Taiwan Semiconductor Manufacturing Company Limited",
+        "theme: 半導體",
+        "sector: Technology",
+        "industry: Semiconductors",
+        "country: Taiwan",
+        "market_cap: 1791003852800"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "ASML Holding N.V. 屬於 Technology / Semiconductor Equipment & Materials，註冊地或主要市場為 Netherlands。目前可用的市值欄位為 512988938240。",
+      "tickers": [
+        "ASML"
+      ],
+      "key_points": [
+        "company: ASML Holding N.V.",
+        "theme: 半導體",
+        "sector: Technology",
+        "industry: Semiconductor Equipment & Materials",
+        "country: Netherlands",
+        "market_cap: 512988938240"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "Arm Holdings plc 屬於 Technology / Semiconductors，註冊地或主要市場為 United Kingdom。目前可用的市值欄位為 152779112448。",
+      "tickers": [
+        "ARM"
+      ],
+      "key_points": [
+        "company: Arm Holdings plc",
+        "theme: 半導體",
+        "sector: Technology",
+        "industry: Semiconductors",
+        "country: United Kingdom",
+        "market_cap: 152779112448"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "Taiwan Semiconductor Manufacturing Company Limited 屬於 Technology / Semiconductors，註冊地或主要市場為 Taiwan。目前可用的市值欄位為 50438757941248。",
+      "tickers": [
+        "2330.TW"
+      ],
+      "key_points": [
+        "company: Taiwan Semiconductor Manufacturing Company Limited",
+        "theme: 半導體",
+        "sector: Technology",
+        "industry: Semiconductors",
+        "country: Taiwan",
+        "market_cap: 50438757941248"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "MediaTek Inc. 屬於 Technology / Semiconductors，註冊地或主要市場為 Taiwan。目前可用的市值欄位為 2465990180864。",
+      "tickers": [
+        "2454.TW"
+      ],
+      "key_points": [
+        "company: MediaTek Inc.",
+        "theme: 半導體",
+        "sector: Technology",
+        "industry: Semiconductors",
+        "country: Taiwan",
+        "market_cap: 2465990180864"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "United Microelectronics Corporation 屬於 Technology / Semiconductors，註冊地或主要市場為 Taiwan。目前可用的市值欄位為 767877513216。",
+      "tickers": [
+        "2303.TW"
+      ],
+      "key_points": [
+        "company: United Microelectronics Corporation",
+        "theme: 半導體",
+        "sector: Technology",
+        "industry: Semiconductors",
+        "country: Taiwan",
+        "market_cap: 767877513216"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "ASE Technology Holding Co., Ltd. 屬於 Technology / Semiconductors，註冊地或主要市場為 Taiwan。目前可用的市值欄位為 1664725417984。",
+      "tickers": [
+        "3711.TW"
+      ],
+      "key_points": [
+        "company: ASE Technology Holding Co., Ltd.",
+        "theme: 半導體",
+        "sector: Technology",
+        "industry: Semiconductors",
+        "country: Taiwan",
+        "market_cap: 1664725417984"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "Global Unichip Corp. 屬於 Technology / Semiconductors，註冊地或主要市場為 Taiwan。目前可用的市值欄位為 341057994752。",
+      "tickers": [
+        "3443.TW"
+      ],
+      "key_points": [
+        "company: Global Unichip Corp.",
+        "theme: 半導體",
+        "sector: Technology",
+        "industry: Semiconductors",
+        "country: Taiwan",
+        "market_cap: 341057994752"
+      ]
+    }
+  ]
+}

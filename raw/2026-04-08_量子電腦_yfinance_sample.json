@@ -1,0 +1,97 @@
+{
+  "episode": "量子電腦 產業觀察樣本",
+  "podcast_name": "yfinance",
+  "date": "2026-04-08",
+  "insights": [
+    {
+      "type": "stock",
+      "content": "IonQ, Inc. 屬於 Technology / Computer Hardware，註冊地或主要市場為 United States。目前可用的市值欄位為 10475028480。",
+      "tickers": [
+        "IONQ"
+      ],
+      "key_points": [
+        "company: IonQ, Inc.",
+        "theme: 量子電腦",
+        "sector: Technology",
+        "industry: Computer Hardware",
+        "country: United States",
+        "market_cap: 10475028480"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "Rigetti Computing, Inc. 屬於 Technology / Computer Hardware，註冊地或主要市場為 United States。目前可用的市值欄位為 4596963840。",
+      "tickers": [
+        "RGTI"
+      ],
+      "key_points": [
+        "company: Rigetti Computing, Inc.",
+        "theme: 量子電腦",
+        "sector: Technology",
+        "industry: Computer Hardware",
+        "country: United States",
+        "market_cap: 4596963840"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "D-Wave Quantum Inc. 屬於 Technology / Computer Hardware，註冊地或主要市場為 United States。目前可用的市值欄位為 5082614272。",
+      "tickers": [
+        "QBTS"
+      ],
+      "key_points": [
+        "company: D-Wave Quantum Inc.",
+        "theme: 量子電腦",
+        "sector: Technology",
+        "industry: Computer Hardware",
+        "country: United States",
+        "market_cap: 5082614272"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "Quantum Computing Inc. 屬於 Technology / Computer Hardware，註冊地或主要市場為 United States。目前可用的市值欄位為 1520124032。",
+      "tickers": [
+        "QUBT"
+      ],
+      "key_points": [
+        "company: Quantum Computing Inc.",
+        "theme: 量子電腦",
+        "sector: Technology",
+        "industry: Computer Hardware",
+        "country: United States",
+        "market_cap: 1520124032"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "International Business Machines Corporation 屬於 Technology / Information Technology Services，註冊地或主要市場為 United States。目前可用的市值欄位為 229975916544。",
+      "tickers": [
+        "IBM"
+      ],
+      "key_points": [
+        "company: International Business Machines Corporation",
+        "theme: 量子電腦",
+        "sector: Technology",
+        "industry: Information Technology Services",
+        "country: United States",
+        "market_cap: 229975916544"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "Alphabet Inc. 屬於 Communication Services / Internet Content & Information，註冊地或主要市場為 United States。目前可用的市值欄位為 3695149580288。",
+      "tickers": [
+        "GOOGL"
+      ],
+      "key_points": [
+        "company: Alphabet Inc.",
+        "theme: 量子電腦",
+        "sector: Communication Services",
+        "industry: Internet Content & Information",
+        "country: United States",
+        "market_cap: 3695149580288"
+      ]
+    }
+  ]
+}

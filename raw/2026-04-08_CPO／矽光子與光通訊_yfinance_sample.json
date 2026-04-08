@@ -1,0 +1,157 @@
+{
+  "episode": "CPO／矽光子與光通訊 產業觀察樣本",
+  "podcast_name": "yfinance",
+  "date": "2026-04-08",
+  "insights": [
+    {
+      "type": "stock",
+      "content": "Lumentum Holdings Inc. 屬於 Technology / Communication Equipment，註冊地或主要市場為 United States。目前可用的市值欄位為 58244550656。",
+      "tickers": [
+        "LITE"
+      ],
+      "key_points": [
+        "company: Lumentum Holdings Inc.",
+        "theme: CPO／矽光子與光通訊",
+        "sector: Technology",
+        "industry: Communication Equipment",
+        "country: United States",
+        "market_cap: 58244550656"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "Coherent Corp. 屬於 Technology / Scientific & Technical Instruments，註冊地或主要市場為 United States。目前可用的市值欄位為 47826624512。",
+      "tickers": [
+        "COHR"
+      ],
+      "key_points": [
+        "company: Coherent Corp.",
+        "theme: CPO／矽光子與光通訊",
+        "sector: Technology",
+        "industry: Scientific & Technical Instruments",
+        "country: United States",
+        "market_cap: 47826624512"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "INFN 屬於 未知產業 / CPO／矽光子與光通訊，註冊地或主要市場為 未知地區。目前可用的市值欄位為 None。",
+      "tickers": [
+        "INFN"
+      ],
+      "key_points": [
+        "company: INFN",
+        "theme: CPO／矽光子與光通訊",
+        "sector: 未知產業",
+        "industry: CPO／矽光子與光通訊",
+        "country: 未知地區",
+        "market_cap: None"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "Applied Optoelectronics, Inc. 屬於 Technology / Communication Equipment，註冊地或主要市場為 United States。目前可用的市值欄位為 9137701888。",
+      "tickers": [
+        "AAOI"
+      ],
+      "key_points": [
+        "company: Applied Optoelectronics, Inc.",
+        "theme: CPO／矽光子與光通訊",
+        "sector: Technology",
+        "industry: Communication Equipment",
+        "country: United States",
+        "market_cap: 9137701888"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "Ciena Corporation 屬於 Technology / Communication Equipment，註冊地或主要市場為 United States。目前可用的市值欄位為 63358652416。",
+      "tickers": [
+        "CIEN"
+      ],
+      "key_points": [
+        "company: Ciena Corporation",
+        "theme: CPO／矽光子與光通訊",
+        "sector: Technology",
+        "industry: Communication Equipment",
+        "country: United States",
+        "market_cap: 63358652416"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "Browave Corporation 屬於 Technology / Communication Equipment，註冊地或主要市場為 Taiwan。目前可用的市值欄位為 92219441152。",
+      "tickers": [
+        "3163.TWO"
+      ],
+      "key_points": [
+        "company: Browave Corporation",
+        "theme: CPO／矽光子與光通訊",
+        "sector: Technology",
+        "industry: Communication Equipment",
+        "country: Taiwan",
+        "market_cap: 92219441152"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "FOCI Fiber Optic Communications, Inc. 屬於 Technology / Communication Equipment，註冊地或主要市場為 Taiwan。目前可用的市值欄位為 78639276032。",
+      "tickers": [
+        "3363.TWO"
+      ],
+      "key_points": [
+        "company: FOCI Fiber Optic Communications, Inc.",
+        "theme: CPO／矽光子與光通訊",
+        "sector: Technology",
+        "industry: Communication Equipment",
+        "country: Taiwan",
+        "market_cap: 78639276032"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "LuxNet Corporation 屬於 Technology / Semiconductors，註冊地或主要市場為 Taiwan。目前可用的市值欄位為 59363971072。",
+      "tickers": [
+        "4979.TWO"
+      ],
+      "key_points": [
+        "company: LuxNet Corporation",
+        "theme: CPO／矽光子與光通訊",
+        "sector: Technology",
+        "industry: Semiconductors",
+        "country: Taiwan",
+        "market_cap: 59363971072"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "EZconn Corporation 屬於 Technology / Electronic Components，註冊地或主要市場為 Taiwan。目前可用的市值欄位為 171710595072。",
+      "tickers": [
+        "6442.TW"
+      ],
+      "key_points": [
+        "company: EZconn Corporation",
+        "theme: CPO／矽光子與光通訊",
+        "sector: Technology",
+        "industry: Electronic Components",
+        "country: Taiwan",
+        "market_cap: 171710595072"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "LandMark Optoelectronics Corporation 屬於 Technology / Semiconductor Equipment & Materials，註冊地或主要市場為 Taiwan。目前可用的市值欄位為 191519244288。",
+      "tickers": [
+        "3081.TWO"
+      ],
+      "key_points": [
+        "company: LandMark Optoelectronics Corporation",
+        "theme: CPO／矽光子與光通訊",
+        "sector: Technology",
+        "industry: Semiconductor Equipment & Materials",
+        "country: Taiwan",
+        "market_cap: 191519244288"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "episode": "散熱 產業觀察樣本",
+  "podcast_name": "yfinance",
+  "date": "2026-04-08",
+  "insights": [
+    {
+      "type": "stock",
+      "content": "Vertiv Holdings Co 屬於 Industrials / Electrical Equipment & Parts，註冊地或主要市場為 United States。目前可用的市值欄位為 100355571712。",
+      "tickers": [
+        "VRT"
+      ],
+      "key_points": [
+        "company: Vertiv Holdings Co",
+        "theme: 散熱",
+        "sector: Industrials",
+        "industry: Electrical Equipment & Parts",
+        "country: United States",
+        "market_cap: 100355571712"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "Super Micro Computer, Inc. 屬於 Technology / Computer Hardware，註冊地或主要市場為 United States。目前可用的市值欄位為 13612924928。",
+      "tickers": [
+        "SMCI"
+      ],
+      "key_points": [
+        "company: Super Micro Computer, Inc.",
+        "theme: 散熱",
+        "sector: Technology",
+        "industry: Computer Hardware",
+        "country: United States",
+        "market_cap: 13612924928"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "Modine Manufacturing Company 屬於 Consumer Cyclical / Auto Parts，註冊地或主要市場為 United States。目前可用的市值欄位為 11284475904。",
+      "tickers": [
+        "MOD"
+      ],
+      "key_points": [
+        "company: Modine Manufacturing Company",
+        "theme: 散熱",
+        "sector: Consumer Cyclical",
+        "industry: Auto Parts",
+        "country: United States",
+        "market_cap: 11284475904"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "Asia Vital Components Co., Ltd. 屬於 Technology / Electronic Components，註冊地或主要市場為 Taiwan。目前可用的市值欄位為 874558783488。",
+      "tickers": [
+        "3017.TW"
+      ],
+      "key_points": [
+        "company: Asia Vital Components Co., Ltd.",
+        "theme: 散熱",
+        "sector: Technology",
+        "industry: Electronic Components",
+        "country: Taiwan",
+        "market_cap: 874558783488"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "Auras Technology Co., Ltd. 屬於 Technology / Computer Hardware，註冊地或主要市場為 Taiwan。目前可用的市值欄位為 91592335360。",
+      "tickers": [
+        "3324.TWO"
+      ],
+      "key_points": [
+        "company: Auras Technology Co., Ltd.",
+        "theme: 散熱",
+        "sector: Technology",
+        "industry: Computer Hardware",
+        "country: Taiwan",
+        "market_cap: 91592335360"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "Jentech Precision Industrial Co., Ltd 屬於 Technology / Electronic Components，註冊地或主要市場為 Taiwan。目前可用的市值欄位為 589132201984。",
+      "tickers": [
+        "3653.TW"
+      ],
+      "key_points": [
+        "company: Jentech Precision Industrial Co., Ltd",
+        "theme: 散熱",
+        "sector: Technology",
+        "industry: Electronic Components",
+        "country: Taiwan",
+        "market_cap: 589132201984"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "Sunonwealth Electric Machine Industry Co., Ltd. 屬於 Industrials / Specialty Industrial Machinery，註冊地或主要市場為 Taiwan。目前可用的市值欄位為 37757280256。",
+      "tickers": [
+        "2421.TW"
+      ],
+      "key_points": [
+        "company: Sunonwealth Electric Machine Industry Co., Ltd.",
+        "theme: 散熱",
+        "sector: Industrials",
+        "industry: Specialty Industrial Machinery",
+        "country: Taiwan",
+        "market_cap: 37757280256"
+      ]
+    },
+    {
+      "type": "stock",
+      "content": "Delta Electronics, Inc. 屬於 Technology / Electronic Components，註冊地或主要市場為 Taiwan。目前可用的市值欄位為 4324909907968。",
+      "tickers": [
+        "2308.TW"
+      ],
+      "key_points": [
+        "company: Delta Electronics, Inc.",
+        "theme: 散熱",
+        "sector: Technology",
+        "industry: Electronic Components",
+        "country: Taiwan",
+        "market_cap: 4324909907968"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Raw to Knowledge Graph</title>
+  <style>
+    :root {
+      --bg: #f5efe6;
+      --text: #171717;
+      --muted: #5f5a52;
+      --line: rgba(23, 23, 23, 0.12);
+      --accent: #142c35;
+      --card: rgba(255,255,255,0.78);
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: linear-gradient(180deg, #fbf7f1 0%, var(--bg) 100%); color: var(--text); }
+    .wrap { max-width: 1180px; margin: 0 auto; padding: 28px 20px 40px; }
+    .hero { display: grid; gap: 24px; }
+    .hero img { width: 100%; border-radius: 24px; border: 1px solid var(--line); box-shadow: 0 20px 70px rgba(0,0,0,0.12); display:block; }
+    .panel { display: grid; gap: 12px; padding: 22px; background: var(--card); border: 1px solid var(--line); border-radius: 22px; }
+    h1 { margin: 0; font-size: clamp(34px, 6vw, 68px); line-height: 0.95; letter-spacing: -0.04em; }
+    p { margin: 0; color: var(--muted); font-size: 17px; line-height: 1.7; max-width: 860px; }
+    .actions { display:flex; gap:12px; flex-wrap:wrap; margin-top: 8px; }
+    a.button { text-decoration:none; padding: 12px 18px; border-radius: 999px; font-weight: 600; border:1px solid var(--line); }
+    a.primary { background: var(--accent); color: white; border-color: var(--accent); }
+    a.secondary { background: white; color: var(--text); }
+    .meta { display:flex; gap:10px; flex-wrap:wrap; color: var(--muted); font-size: 14px; }
+    .chip { padding: 8px 12px; background: white; border: 1px solid var(--line); border-radius: 999px; }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <section class="hero">
+      <div class="panel">
+        <h1>Raw to Knowledge Graph</h1>
+        <p>Turn raw files into a living Markdown knowledge graph with LLM agents. This project helps you ingest raw JSON, generate linked wiki pages, and explore the result as an interactive graph.</p>
+        <div class="actions">
+          <a class="button primary" href="graph.html">Open Live Graph</a>
+          <a class="button secondary" href="https://github.com/kevin801221/raw-to-knowledge-graph">View GitHub Repo</a>
+        </div>
+        <div class="meta">
+          <span class="chip">raw → source → concept/entity → synthesis</span>
+          <span class="chip">Markdown Wiki</span>
+          <span class="chip">Interactive Graph</span>
+          <span class="chip">LLM + Local-first</span>
+        </div>
+      </div>
+      <img src="../assets/Gemini_Generated_Image_mvgg5wmvgg5wmvgg.png" alt="Raw to Knowledge Graph hero image">
+    </section>
+  </main>
+</body>
+</html>

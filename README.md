@@ -1,5 +1,9 @@
 # LLM Wiki General
 
+![LLM Wiki General Hero](assets/Gemini_Generated_Image_mvgg5wmvgg5wmvgg.png)
+
+**Live Demo:** [Graph Page](https://kevin801221.github.io/raw-to-knowledge-graph/graph.html)
+
 一個通用、可本地運行、可逐步擴充的 LLM Wiki 工作流。
 目標是把任何領域的原始資料，整理成一套可累積、可查詢、可視覺化的 Markdown 知識庫，最後長成一張知識圖。
 

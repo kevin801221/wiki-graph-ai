@@ -1,14 +1,14 @@
 # LLM Wiki General
 
-![LLM Wiki General Hero](assets/Gemini_Generated_Image_mvgg5wmvgg5wmvgg.png)
-
-**Live Demo:** [Graph Page](https://kevin801221.github.io/raw-to-knowledge-graph/graph.html)
+![LLM Wiki General Cover](assets/Wiki-CPO-LLM.jpg)
 
 一個通用、可本地運行、可逐步擴充的 LLM Wiki 工作流。
 目標是把任何領域的原始資料，整理成一套可累積、可查詢、可視覺化的 Markdown 知識庫，最後長成一張知識圖。
 
 這個 repo 是 `llm-wiki-graph` 的 general 版本。
 `llm-wiki-graph` 偏金融與 Podcast 實作；這個版本則把方法抽象化，讓別人可以拿去做股票、產業研究、公司訪談、政策資料、學術摘要、產品競品、課程筆記，甚至任何可切成 `raw -> source -> concept/entity -> synthesis` 的工作流。
+
+這套流程不只給 Codex 用。只要是會讀檔、寫檔、能跑 Python 的 code agent，都可以照同一套 SOP 來做，例如 Claude Code、Gemini CLI、Cursor agent、Aider，或你之後換成其他本地 / 雲端代理工具也一樣能套用。
 
 ## 為什麼這個 repo 有機會變成爆款
 
@@ -22,6 +22,7 @@
 - 一套 LLM 可以遵循的 Wiki SOP
 - 一套能把 raw data 變成 linked knowledge graph 的骨架
 - 一套讓人類與 agent 可以共同維護的 Markdown knowledge base
+- 一套可被不同 code agent 共用的標準化 ingest / graph 流程
 
 簡單說，這不是「再一個筆記工具」，而是「讓 LLM 幫你長期經營自己的知識圖譜」。
 

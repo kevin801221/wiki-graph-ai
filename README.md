@@ -1,4 +1,4 @@
-# LLM Wiki General
+# 產業股票分析為例的 LLM Wiki Graph
 
 ![LLM Wiki General Cover](assets/Wiki-CPO-LLM.jpg)
 
